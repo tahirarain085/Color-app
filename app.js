@@ -1,6 +1,6 @@
 const colorBtn = document.querySelector('.btn-color');
 const bodybcg = document.querySelector('body');
-const colors = ['red','green','blue','pink','#ef777f'];
+const colors = ['red','green','blue','pink','orange','#ef777f'];
 
 
 colorBtn.addEventListener('click',changeColor);
